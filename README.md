@@ -120,10 +120,10 @@ Main dependencies for backend:
 
 
 
+## Output
+<img width="1268" height="657" alt="researchbotss1" src="https://github.com/user-attachments/assets/1b53998e-59e4-4aaa-b3c6-aa2c2acea53e" />
+<img width="1268" height="659" alt="researchbotss2" src="https://github.com/user-attachments/assets/b930445b-75e5-41c5-8faa-ac406b544d3e" />
 
-## 📝 License
-This project is created by Vigneshwaran Murugan for educational and research purposes.
-Feel free to fork or contribute improvements.
 
 
 ##💡 Acknowledgements
@@ -136,6 +136,8 @@ Feel free to fork or contribute improvements.
 
 
 ## 📝 License
+This project is created by Vigneshwaran Murugan for educational and research purposes.
+This project is licensed under the GNU General Public License v3.0 (GPLv3)  
+See the [LICENSE](LICENSE) file for details.
 
-This project is open-source and licensed under the MIT License.
 
