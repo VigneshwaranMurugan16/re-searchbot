@@ -22,7 +22,7 @@ The backend is built with **FastAPI**, while the frontend (React.js) handles fil
 ---
 
 ## 🏗️ Project Structure (Backend Focus)
-
+```
 RE-SearchBot/
 │
 ├── backend/
@@ -37,7 +37,7 @@ RE-SearchBot/
 ├── src/
 ├── package.json
 └── ...
-
+```
 
 ---
 
